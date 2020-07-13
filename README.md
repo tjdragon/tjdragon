@@ -17,4 +17,11 @@ An implementation of the Travel Rule protocol for VASPs [https://github.com/tjdr
 ### Digital Asset Trading
 Bunch of rules, protocols and APIs to support Digital Asset Trading between a VASP and a Trading Venue [https://github.com/tjdragon/ct](https://github.com/tjdragon/ct)
 
-### Some other not-so-interesting projects
+### Hedera hashgraph
+A small poc using Hedera's Java [Swirlds SDK](https://www.swirlds.com/download/) to run a smart contract, in this case a wallet to wallet transfer: [https://github.com/tjdragon/w2w](https://github.com/tjdragon/w2w)
+
+### Linearisation
+A [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) implementation, useful for pricing graphs in banking.
+
+### Some SCALA fun
+Some basic [SCALE](https://www.scala-lang.org/) projects: a [Mandelbrot](https://github.com/tjdragon/mandel), a [Self-Organizing Map](https://github.com/tjdragon/som), an interview question [Snail Algo](https://github.com/tjdragon/snail-algo), another interview question [x-word](https://github.com/tjdragon/xword-puzzle), [mTLS](https://github.com/tjdragon/scala-mutual-ssl)
