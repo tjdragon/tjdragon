@@ -1,6 +1,9 @@
 # TJ's Public Repo
+![pano-sg](./data/pano-sg.jpg)
 
 ## "Interesting" projects of mine
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tjdragon.tjdragon)
 
 ### Edwards Curve and JWS
 You can find an implementation of [the curve](https://en.wikipedia.org/wiki/Edwards_curve) there [https://github.com/tjdragon/ed25519](https://github.com/tjdragon/ed25519) using [BouncyCastle](https://www.bouncycastle.org/), [Google Tink](https://github.com/google/tink) and [Nimbus JOSE](https://connect2id.com/products/nimbus-jose-jwt).
@@ -25,3 +28,5 @@ A [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) imple
 
 ### Some SCALA fun
 Some basic [Scala](https://www.scala-lang.org/) projects: a [Mandelbrot](https://github.com/tjdragon/mandel), a [Self-Organizing Map](https://github.com/tjdragon/som), an interview question [Snail Algo](https://github.com/tjdragon/snail-algo), another interview question [x-word](https://github.com/tjdragon/xword-puzzle), [mTLS](https://github.com/tjdragon/scala-mutual-ssl)
+
+![TJ's github stats](https://github-readme-stats.vercel.app/api?username=tjdragon)
