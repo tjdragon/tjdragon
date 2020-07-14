@@ -1,5 +1,5 @@
 # TJ's Public Repo
-![pano-sg](./data/pano-sg.jpg)
+![pano-sg](https://github.com/tjdragon/tjdragon/blob/master/data/pano-sg.jpg)
 
 ## "Interesting" projects of mine
 
