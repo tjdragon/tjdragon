@@ -24,6 +24,9 @@ A small poc using Hedera's Java [Swirlds SDK](https://www.swirlds.com/download/)
 ### Linearisation
 A [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) implementation, useful for pricing graphs in banking.
 
+### Google Fit Track Visualisation
+[GFIT VIZ](https://github.com/tjdragon/gfit-viz)
+
 ### Some SCALA fun
 Some basic [Scala](https://www.scala-lang.org/) projects: a [Mandelbrot](https://github.com/tjdragon/mandel), a [Self-Organizing Map](https://github.com/tjdragon/som), an interview question [Snail Algo](https://github.com/tjdragon/snail-algo), another interview question [x-word](https://github.com/tjdragon/xword-puzzle), [mTLS](https://github.com/tjdragon/scala-mutual-ssl)
 
