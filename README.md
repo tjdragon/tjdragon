@@ -3,6 +3,9 @@
 
 ## "Interesting" projects of mine
 
+### Mouton
+A DIP5 compliant Bech32 implementation in Java: project [mouton](https://github.com/tjdragon/mouton)
+
 ### Bisous
 Display Ethereum nodes in a map: project [bisous](https://github.com/tjdragon/bisous)
 
