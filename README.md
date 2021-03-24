@@ -3,6 +3,9 @@
 
 ## "Interesting" projects of mine
 
+### Travel Rule Protocol v 1.1
+A client side implementation of [https://www.travelruleprotocol.org/](https://www.travelruleprotocol.org/)L project: [trp](https://github.com/tjdragon/trp)
+
 ### Mouton
 A DIP5 compliant Bech32 implementation in Java: project [mouton](https://github.com/tjdragon/mouton)
 
