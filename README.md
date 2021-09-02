@@ -3,6 +3,9 @@
 
 ## "Interesting" projects of mine
 
+### Bitcoin lib: teach and learn
+A small lib to investigate bitcoin tx building: [beeteasea](https://github.com/tjdragon/beeteasea)
+
 ### Travel Rule Protocol v 1.1
 A client side implementation of [https://www.travelruleprotocol.org/](https://www.travelruleprotocol.org/)L project: [trp](https://github.com/tjdragon/trp)
 
