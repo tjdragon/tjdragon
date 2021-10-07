@@ -3,6 +3,9 @@
 
 ## "Interesting" projects of mine
 
+### NFT step-by-step
+How to deploy a [NFT, step-by-step](https://github.com/tjdragon/nft-step-by-step)
+
 ### Bitcoin lib: teach and learn
 A small lib to investigate bitcoin tx building: [beeteasea](https://github.com/tjdragon/beeteasea)
 
