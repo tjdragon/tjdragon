@@ -2,6 +2,7 @@
 ![pano-sg](https://github.com/tjdragon/tjdragon/blob/master/data/pano-sg.jpg)
 
 ## "Interesting" projects of mine
+If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0x7e674C55f954d31B2f86F69d7A58B2BCe84Cf6b4
 
 ### NFT step-by-step
 How to deploy a [NFT, step-by-step](https://github.com/tjdragon/nft-step-by-step)
