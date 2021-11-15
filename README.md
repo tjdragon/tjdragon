@@ -2,7 +2,7 @@
 ![pano-sg](https://github.com/tjdragon/tjdragon/blob/master/data/pano-sg.jpg)
 
 ## "Interesting" projects of mine
-If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0x7e674C55f954d31B2f86F69d7A58B2BCe84Cf6b4
+If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
 ### CLOB DEX Investigations
 Investigations of Central Limit Order Books using Solidity and Hedera: [SwapVerse](https://github.com/tjdragon/swapverse)
