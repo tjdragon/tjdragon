@@ -17,7 +17,7 @@ How to deploy a [NFT, step-by-step](https://github.com/tjdragon/nft-step-by-step
 A small lib to investigate bitcoin tx building: [beeteasea](https://github.com/tjdragon/beeteasea)
 
 ### Travel Rule Protocol v 1.1
-A client side implementation of [https://www.travelruleprotocol.org/](https://www.travelruleprotocol.org/)L project: [trp](https://github.com/tjdragon/trp)
+A client side implementation of [https://www.travelruleprotocol.org/](https://www.travelruleprotocol.org/) project: [trp](https://github.com/tjdragon/trp)
 
 ### Mouton
 A DIP5 compliant Bech32 implementation in Java: project [mouton](https://github.com/tjdragon/mouton)
