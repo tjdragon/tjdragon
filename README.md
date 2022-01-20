@@ -7,6 +7,9 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
+### Run a local geth node
+How to run a local geth node: [Local Geth](https://github.com/tjdragon/local-geth)
+
 ### CLOB DEX Investigations
 Investigations of Central Limit Order Books using Solidity and Hedera: [SwapVerse](https://github.com/tjdragon/swapverse)
 
