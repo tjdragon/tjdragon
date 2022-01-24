@@ -1,5 +1,5 @@
 # TJ's Public Repo
-![pano-sg](https://github.com/tjdragon/tjdragon/blob/master/data/pano-sg.jpg)
+![pano-sg](https://github.com/tjdragon/tjdragon/blob/master/data/paris-france-eiffel-tower-wallpaper-960x600_1.jpg)
 
 ## Contact
 tjdragonhash@gmail.com
