@@ -13,9 +13,6 @@ Generate an image from Solidity: [NFT Data On-Chain](https://github.com/tjdragon
 ### Run a local geth node
 How to run a local geth node: [Local Geth](https://github.com/tjdragon/local-geth)
 
-### CLOB DEX Investigations
-Investigations of Central Limit Order Books using Solidity and Hedera: [SwapVerse](https://github.com/tjdragon/swapverse)
-
 ### NFT step-by-step
 How to deploy a [NFT, step-by-step](https://github.com/tjdragon/nft-step-by-step)
 
