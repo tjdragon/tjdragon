@@ -10,9 +10,6 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### NFT data on-chain
 Generate an image from Solidity: [NFT Data On-Chain](https://github.com/tjdragon/nft-on-chain-data)
 
-### Support for Hedera using Cysec
-Use of HSM to support Hedera: [Hedera On Cysec](https://github.com/tjdragon/hedera-on-cysec)
-
 ### Run a local geth node
 How to run a local geth node: [Local Geth](https://github.com/tjdragon/local-geth)
 
