@@ -7,6 +7,9 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
+### Secure Messaging via Blockchain
+[Sec Msg](https://github.com/tjdragon/secmsg/)
+
 ### NFT data on-chain
 Generate an image from Solidity: [NFT Data On-Chain](https://github.com/tjdragon/nft-on-chain-data)
 
