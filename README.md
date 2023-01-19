@@ -46,9 +46,6 @@ Some private investigations on [BIP32](https://github.com/bitcoin/bips/blob/mast
 ### Travel Rule
 An implementation of the Travel Rule protocol for VASPs [https://github.com/tjdragon/travelrule](https://github.com/tjdragon/travelrule)
 
-### Digital Asset Trading
-Bunch of rules, protocols and APIs to support Digital Asset Trading between a VASP and a Trading Venue [https://github.com/tjdragon/ct](https://github.com/tjdragon/ct)
-
 ### Hedera hashgraph
 A small poc using Hedera's Java [Swirlds SDK](https://www.swirlds.com/download/) to run a smart contract, in this case a wallet to wallet transfer: [https://github.com/tjdragon/w2w](https://github.com/tjdragon/w2w)
 
