@@ -7,6 +7,9 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
+### Chat GPT Prompt
+[Chat GPT Prompt](https://github.com/tjdragon/chat-gpt/)
+
 ### DeFi Risk
 [DeFi Risk](https://github.com/tjdragon/defi-risk/)
 
