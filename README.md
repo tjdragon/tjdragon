@@ -7,6 +7,9 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
+### Hedera Stablecoin Acceleator Program PoC
+[Stablecoin Issuance](https://github.com/tjdragon/hts)
+
 ### Hedera 2022 hackathon
 [Hedera 22](https://github.com/tjdragon/hedera22) & [Hedera CLI](https://github.com/tjdragon/hedera22-cli)
 
