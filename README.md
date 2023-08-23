@@ -19,11 +19,13 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Chat GPT Prompt
 [Chat GPT Prompt](https://github.com/tjdragon/chat-gpt/)
 
+<! --
 ### DeFi Risk
 [DeFi Risk](https://github.com/tjdragon/defi-risk/)
 
 ### Atomic Swap
 [Atomic Swap on Ethereum](https://tjdragon.github.io/zm-stl.github.io/)
+-->
 
 ### Create a NFT Collection ERC-1155 Compliant on OpenSea
 [NFT Collection ERC-1155](https://github.com/tjdragon/nft-collection-opensea-erc1155)
