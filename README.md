@@ -7,6 +7,10 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
+### Chat GPT Prompt
+[Chat GPT Prompt](https://github.com/tjdragon/chat-gpt/)
+
+<!--
 ### DFNS
 [DFNS](https://github.com/tjdragon/dfns)
 
@@ -16,10 +20,6 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Hedera 2022 hackathon
 [Hedera 22](https://github.com/tjdragon/hedera22) & [Hedera CLI](https://github.com/tjdragon/hedera22-cli)
 
-### Chat GPT Prompt
-[Chat GPT Prompt](https://github.com/tjdragon/chat-gpt/)
-
-<! --
 ### DeFi Risk
 [DeFi Risk](https://github.com/tjdragon/defi-risk/)
 
