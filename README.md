@@ -7,10 +7,17 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
+<!--
+### DeFi Risk
+[DeFi Risk](https://github.com/tjdragon/defi-risk/)
+
+### Atomic Swap
+[Atomic Swap on Ethereum](https://tjdragon.github.io/zm-stl.github.io/)
+-->
+
 ### Chat GPT Prompt
 [Chat GPT Prompt](https://github.com/tjdragon/chat-gpt/)
 
-<!--
 ### DFNS
 [DFNS](https://github.com/tjdragon/dfns)
 
@@ -19,13 +26,6 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 
 ### Hedera 2022 hackathon
 [Hedera 22](https://github.com/tjdragon/hedera22) & [Hedera CLI](https://github.com/tjdragon/hedera22-cli)
-
-### DeFi Risk
-[DeFi Risk](https://github.com/tjdragon/defi-risk/)
-
-### Atomic Swap
-[Atomic Swap on Ethereum](https://tjdragon.github.io/zm-stl.github.io/)
--->
 
 ### Create a NFT Collection ERC-1155 Compliant on OpenSea
 [NFT Collection ERC-1155](https://github.com/tjdragon/nft-collection-opensea-erc1155)
