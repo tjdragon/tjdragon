@@ -10,7 +10,7 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### AI Rap Battle
 [BTC vs ETH](https://github.com/tjdragon/AI-Rap-Battle)
 
-### Anything AI: links
+### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
 ### An AI Agent that rewards you
