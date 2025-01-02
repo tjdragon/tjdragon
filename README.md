@@ -7,11 +7,11 @@ tjdragonhash@gmail.com
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
-### AI Rap Battle
-[BTC vs ETH](https://github.com/tjdragon/AI-Rap-Battle)
-
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
+
+### AI Rap Battle
+[BTC vs ETH](https://github.com/tjdragon/AI-Rap-Battle)
 
 ### An AI Agent that rewards you
 [Cui Cui](https://github.com/tjdragon/cuicui)
