@@ -10,6 +10,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
+### MPC + ZKP in Python
+[P12](https://github.com/tjdragon/Part-12-Computation)
+
 ### NilChat using Nillion
 [NilChat](https://github.com/tjdragon/nilchat)
 
