@@ -16,6 +16,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### En Nature: Investigations on recommenders and LLMs for recommendations 
 [En Nature](https://github.com/tjdragon/en-nature)
 
+### An atomic swap implementation using Solidity and an off-chain signing
+[Leptonic](https://github.com/tjdragon/leptonic)
+
 ### NilChat using Nillion
 [NilChat](https://github.com/tjdragon/nilchat)
 
