@@ -13,6 +13,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### MPC + ZKP in Python
 [P12](https://github.com/tjdragon/Part-12-Computation)
 
+### En Nature: Investigations on recommenders and LLMs for recommendations 
+[En Nature](https://github.com/tjdragon/en-nature)
+
 ### NilChat using Nillion
 [NilChat](https://github.com/tjdragon/nilchat)
 
