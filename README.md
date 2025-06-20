@@ -4,11 +4,11 @@
 ## "Interesting" projects of mine
 If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8dk80rqw0apcy8kx or some ETH to 0xcDE1EcaFCa4B4c7A6902c648CD01db52d8c943F3
 
-## LLM from "scratch"
-[LLM de 0](https://github.com/tjdragon/LLMde0)
-
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
+
+## LLM from "scratch"
+[LLM de 0](https://github.com/tjdragon/LLMde0)
 
 ### MPC + ZKP in Python with the help of AI
 [P12](https://github.com/tjdragon/Part-12-Computation)
