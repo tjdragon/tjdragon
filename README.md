@@ -19,6 +19,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### An atomic swap implementation using Solidity and an off-chain signing
 [Leptonic](https://github.com/tjdragon/leptonic)
 
+### Distributed Limit Order Book for Hedera
+[DLOBEX](https://github.com/tjdragon/dlobex)
+
 ### NilChat using Nillion
 [NilChat](https://github.com/tjdragon/nilchat)
 
