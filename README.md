@@ -7,6 +7,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
+### VerityGate: A Generic Entitlement Layer for Digital Assets
+[VerityGate](https://github.com/tjdragon/VerityGate)
+
 ## Realtime Net Settlement System
 [RTNS](https://github.com/tjdragon/RTNS)
 
