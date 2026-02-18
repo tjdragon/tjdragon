@@ -1,4 +1,4 @@
-# TJ's Public Repo
+# [TJ](https://www.linkedin.com/in/tsjanaudy/)'s Public Repo
 ![pano-sg](https://github.com/tjdragon/tjdragon/blob/master/data/paris.jpg)
 
 ## "Interesting" projects of mine
