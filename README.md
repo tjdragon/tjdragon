@@ -118,4 +118,4 @@ A [Topological sorting](https://en.wikipedia.org/wiki/Topological_sorting) imple
 ### Some SCALA fun
 Some basic [Scala](https://www.scala-lang.org/) projects: a [Mandelbrot](https://github.com/tjdragon/mandel), a [Self-Organizing Map](https://github.com/tjdragon/som), an interview question [Snail Algo](https://github.com/tjdragon/snail-algo), another interview question [x-word](https://github.com/tjdragon/xword-puzzle), [mTLS](https://github.com/tjdragon/scala-mutual-ssl)
 
-![TJ's github stats](https://github-readme-stats.vercel.app/api?username=tjdragon)
+[TJ](https://www.linkedin.com/in/tsjanaudy/)
