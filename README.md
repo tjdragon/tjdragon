@@ -10,6 +10,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### HSM abstraction with HashiCorp
 [Vigil HSM](https://github.com/tjdragon/VigilHSM)
 
+### Investigation of a Yield Looper with DFNS and Gemini
+[Yield Looper](https://github.com/tjdragon/YieldLooper)
+
 ### DFNS for Bonds
 [DFNS 007](https://github.com/tjdragon/DFNS-007)
 
