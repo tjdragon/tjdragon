@@ -22,6 +22,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### P-KU-23
 [P-KU-23](https://github.com/tjdragon/p-ku-23)
 
+### DAML Guessing Game
+[DAML (Canton) Guessing Game](https://github.com/tjdragon/daml-guessing-game)
+
 ### VerityGate: A Generic Entitlement Layer for Digital Assets
 [VerityGate](https://github.com/tjdragon/VerityGate)
 
