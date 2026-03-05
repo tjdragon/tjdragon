@@ -19,6 +19,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### DFNS Smart Contract Management for Stable Coins and X-Border 
 [DFNS SC](https://github.com/tjdragon/DFNS-SC)
 
+### DFNS Stable Swap with FX for Solana
+[DFNS SC SOL](https://github.com/tjdragon/DFNS-SC-SOL)
+
 ### P-KU-23
 [P-KU-23](https://github.com/tjdragon/p-ku-23)
 
