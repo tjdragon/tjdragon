@@ -7,6 +7,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
+### MCP for DFNS
+[MCP-4-DFNS](https://github.com/tjdragon/MCP-4-DFNS)
+
 ### HSM abstraction with HashiCorp
 [Vigil HSM](https://github.com/tjdragon/VigilHSM)
 
