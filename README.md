@@ -7,6 +7,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
+### DFNS Smart Contract Policies
+[DFNS CallPol](https://github.com/tjdragon/DFNS-CallPol)
+
 ### Bitcoin DFNS Partial Sig for Sweeping
 [DFNS PSBT](https://github.com/tjdragon/DFNS-PSBT)
 
