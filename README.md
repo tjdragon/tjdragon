@@ -19,6 +19,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### MCP for DFNS
 [MCP-4-DFNS](https://github.com/tjdragon/MCP-4-DFNS)
 
+### Vigil
+[Vigil](https://github.com/tjdragon/Vigil)
+
 ### Vigil Auth with Passkey
 [Vigil Auth](https://github.com/tjdragon/VigilAuth)
 
