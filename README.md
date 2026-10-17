@@ -7,6 +7,12 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
+### Set Me Free: Cloud Agnostic Framework
+[7me3](https://github.com/tjdragon/7m3)
+
+### GrossBit: Bitcoin Lib in Rust
+[GrossBit](https://github.com/tjdragon/GrossBit)
+
 ### DFNS X402
 [DFNS X402](https://github.com/tjdragon/DFNS-X402)
 
