@@ -7,6 +7,9 @@ If you like what you see, please donate some BTC to bc1qf3gsvfk0yp9fvw0k8xvq7a8d
 ### Anything AI: links about agents, models, frameworks, ...
 [Anything AI](https://github.com/tjdragon/AnythingAI)
 
+### Power Plant: Trade and Use GPUs on Demand
+[PP](https://github.com/tjdragon/PowerPlant)
+
 ### Set Me Free: Cloud Agnostic Framework
 [7me3](https://github.com/tjdragon/7m3)
 
